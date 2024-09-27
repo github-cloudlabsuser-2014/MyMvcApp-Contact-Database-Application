@@ -6,7 +6,7 @@
         "value": "myAppServicePlan"
       },
       "webAppName": {
-        "value": "myWebApp"
+        "value": "myMVCWebApp"
       },
       "location": {
         "value": "EastUS2"
